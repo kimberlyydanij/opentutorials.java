@@ -8,7 +8,7 @@ public class LoginDemo {
 				System.out.println("right");
 			else 
 				System.out.println("wrong");
-		
+
 		}
 	}
 
